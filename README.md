@@ -1,21 +1,21 @@
-# 💼 Eren Yılmaz  
+# EREN YILMAZ
 **Computer Engineer**  
 
-📍 **Location:** Ankara, Turkey  
-📅 **Date of Birth:** 26.01.2001  
-📧 **Email:** [eerenyilmazz1@gmail.com](mailto:eerenyilmazz1@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/eeren.yilmazz](https://linkedin.com/in/eeren.yilmazz)  
-🔗 **GitHub:** [github.com/eerenyilmazz](https://github.com/eerenyilmazz)  
+**Location:** Ankara, Turkey  
+**Date of Birth:** 26.01.2001  
+**Email:** [eerenyilmazz1@gmail.com](mailto:eerenyilmazz1@gmail.com)  
+**LinkedIn:** [linkedin.com/in/eeren.yilmazz](https://linkedin.com/in/eeren.yilmazz)  
+**GitHub:** [github.com/eerenyilmazz](https://github.com/eerenyilmazz)  
 
-## 🚀 About Me  
+## About Me  
 I am a **computer engineering student** passionate about designing and presenting projects.  
-I am currently working with **Spring Boot** and **Angular**, gaining experience in backend technologies.  
-Additionally, I have developed my skills in **Unity, C#, Flutter, Dart, and Java**.  
+I am currently working as a **Backend Developer Intern** at **Saattek Yazılım Danışmanlık Ltd. Şti.**, focusing on **Spring Boot, Angular, and Java**.  
+Additionally, I have developed my skills in **Unity, C#, Flutter, Dart, and Python**.  
 I am always open to learning new technologies and improving myself.  
 
 ---
 
-## 💻 Tech Stack  
+## Tech Stack  
 ### **Programming Languages:**  
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  
@@ -40,7 +40,12 @@ I am always open to learning new technologies and improving myself.
 
 ---
 
-## 💼 Experience  
+## Experience  
+### **Backend Developer Intern - Saattek Yazılım Danışmanlık Ltd. Şti.** *(02.2024 – Present)*  
+- Developing **backend services** using **Spring Boot** and **Java**.  
+- Building **frontend components** with **Angular**.  
+- Working with **RESTful APIs** and **database management**.  
+
 ### **Mobile Developer - Tetra Mühendislik A.Ş.** *(07.2023 – 08.2023)*  
 - Developed basic **Android applications** using Java.  
 
@@ -51,12 +56,12 @@ I am always open to learning new technologies and improving myself.
 
 ---
 
-## 🎓 Education  
+## Education  
 📌 **Kastamonu University** - Faculty of Engineering and Architecture, **Computer Engineering** *(2020 - Present)*  
 
 ---
 
-## 🚀 Projects  
+## Projects  
 ### **Petbull - AI-Powered Pet Social Media**  
 - Developed using **Flutter & Dart**.  
 - AI-powered social media platform for pet owners.  
@@ -65,9 +70,8 @@ I am always open to learning new technologies and improving myself.
 
 ---
 
-## 📊 Profile Stats  
+## Profile Stats  
 ![Profile Views](https://visitcount.itsvg.in/api?id=eerenyilmazz&label=Profile%20Views&color=12&icon=2&pretty=false)  
 
 ---
-
-💡 **Let's connect and collaborate on exciting projects!** 🚀  
+**Let's connect and collaborate on exciting projects!** 
