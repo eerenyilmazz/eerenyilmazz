@@ -4,7 +4,6 @@
 **Location:** Ankara, Turkey   
 **Email:** [eerenyilmazz1@gmail.com](mailto:eerenyilmazz1@gmail.com)  
 **LinkedIn:** [linkedin.com/in/eeren.yilmazz](https://linkedin.com/in/eeren.yilmazz)  
-**GitHub:** [github.com/eerenyilmazz](https://github.com/eerenyilmazz)  
 
 ## About Me  
 I am a **computer engineering student** passionate about designing and presenting projects.  
