@@ -1,26 +1,73 @@
-# 💫 About Me:
-🔭 I’m currently working on backend technologies.  
-👯 I’m looking to collaborate on exciting projects.  
-🌱 I’m currently learning Angular and Spring Boot.  
-💬 You can contact me at [eerenyilmazz1@gmail.com](mailto:eerenyilmazz1@gmail.com).
+# 💼 Eren Yılmaz  
+**Computer Engineer**  
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eerenyilmazz)
+📍 **Location:** Ankara, Turkey  
+📅 **Date of Birth:** 26.01.2001  
+📧 **Email:** [eerenyilmazz1@gmail.com](mailto:eerenyilmazz1@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/eeren.yilmazz](https://linkedin.com/in/eeren.yilmazz)  
+🔗 **GitHub:** [github.com/eerenyilmazz](https://github.com/eerenyilmazz)  
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+## 🚀 About Me  
+I am a **computer engineering student** passionate about designing and presenting projects.  
+I am currently working with **Spring Boot** and **Angular**, gaining experience in backend technologies.  
+Additionally, I have developed my skills in **Unity, C#, Flutter, Dart, and Java**.  
+I am always open to learning new technologies and improving myself.  
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=eerenyilmazz&label=Profile%20Views&color=12&icon=2&pretty=false)](https://visitcount.itsvg.in)
+---
+
+## 💻 Tech Stack  
+### **Programming Languages:**  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
+
+### **Frameworks & Tools:**  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)  
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)  
+![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)  
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)  
+
+### **Database Management:**  
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+![MsSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
+
+### **Version Control & Deployment:**  
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)  
+![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
+
+---
+
+## 💼 Experience  
+### **Mobile Developer - Tetra Mühendislik A.Ş.** *(07.2023 – 08.2023)*  
+- Developed basic **Android applications** using Java.  
+
+### **Game Developer - isTechSoft** *(12.2023 – 01.2024)*  
+- Developed **online multiplayer games** using **Unity & C#**.  
+- Integrated **Photon Engine** for multiplayer game functionality.  
+- Created **local storage systems** for in-game data.  
+
+---
+
+## 🎓 Education  
+📌 **Kastamonu University** - Faculty of Engineering and Architecture, **Computer Engineering** *(2020 - Present)*  
+
+---
+
+## 🚀 Projects  
+### **Petbull - AI-Powered Pet Social Media**  
+- Developed using **Flutter & Dart**.  
+- AI-powered social media platform for pet owners.  
+- Users can find lost pets, identify animal breeds, share experiences, and interact with an AI chatbot.  
+- Supported by **TÜBİTAK 2209-A**.  
+
+---
+
+## 📊 Profile Stats  
+![Profile Views](https://visitcount.itsvg.in/api?id=eerenyilmazz&label=Profile%20Views&color=12&icon=2&pretty=false)  
+
+---
+
+💡 **Let's connect and collaborate on exciting projects!** 🚀  
