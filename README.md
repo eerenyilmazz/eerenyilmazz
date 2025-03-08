@@ -1,8 +1,7 @@
 # EREN YILMAZ
 **Computer Engineer**  
 
-**Location:** Ankara, Turkey  
-**Date of Birth:** 26.01.2001  
+**Location:** Ankara, Turkey   
 **Email:** [eerenyilmazz1@gmail.com](mailto:eerenyilmazz1@gmail.com)  
 **LinkedIn:** [linkedin.com/in/eeren.yilmazz](https://linkedin.com/in/eeren.yilmazz)  
 **GitHub:** [github.com/eerenyilmazz](https://github.com/eerenyilmazz)  
@@ -38,24 +37,6 @@ I am always open to learning new technologies and improving myself.
 ![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
 
----
-
-## Experience  
-### **Backend Developer Intern - Saattek Yazılım Danışmanlık Ltd. Şti.** *(02.2024 – Present)*  
-- Developing **backend services** using **Spring Boot** and **Java**.  
-- Building **frontend components** with **Angular**.  
-- Working with **RESTful APIs** and **database management**.  
-
-### **Mobile Developer - Tetra Mühendislik A.Ş.** *(07.2023 – 08.2023)*  
-- Developed basic **Android applications** using Java.  
-
-### **Game Developer - isTechSoft** *(12.2023 – 01.2024)*  
-- Developed **online multiplayer games** using **Unity & C#**.  
-- Integrated **Photon Engine** for multiplayer game functionality.  
-- Created **local storage systems** for in-game data.  
-
----
-
 ## Education  
 📌 **Kastamonu University** - Faculty of Engineering and Architecture, **Computer Engineering** *(2020 - Present)*  
 
@@ -70,8 +51,4 @@ I am always open to learning new technologies and improving myself.
 
 ---
 
-## Profile Stats  
-![Profile Views](https://visitcount.itsvg.in/api?id=eerenyilmazz&label=Profile%20Views&color=12&icon=2&pretty=false)  
-
----
 **Let's connect and collaborate on exciting projects!** 
